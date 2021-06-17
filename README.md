@@ -1,4 +1,12 @@
-### Hi there 👋
+## 🥳 - About Me - 🥳
+### 🍀 - **Hello! I'm yBrunnioDev** - 🍀
+====================================================
+#### ✨ - *I Program In JavaScript \ VBA. I Know HTML And CSS* - ✨
+![Clique](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+## 💻 - Connections - 💻
+### 📃 - **Follow Me At The GitHug** - 📃
+====================================================
 
 <!--
 **BrunnioDevs/BrunnioDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
